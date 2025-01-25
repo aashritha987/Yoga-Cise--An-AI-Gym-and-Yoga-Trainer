@@ -1,0 +1,9 @@
+Flask
+opencv-python
+Flask-CORS
+google-generativeai
+numpy
+requests
+mediapipe
+numpy
+csv
