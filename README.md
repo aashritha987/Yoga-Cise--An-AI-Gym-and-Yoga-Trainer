@@ -1,1 +1,2 @@
-# Yoga-Cise--An-AI-Gym-and-Yoga-Trainer
+# Yoga Cise An AI Gym and Yoga Trainer
+"YogaCise" will use AI, computer vision, and fitness together for the gym and yoga train at home using only our software and camera-powered Computer. By catering to the increased demand for virtual solutions in fitness, it provides users with personalized guidance in exercise without having to depend on any expensive personal trainer. This solution is also very relevant and modern, considering it is able to provide live feedback for both yoga and gym exercises in order to properly experience training.
